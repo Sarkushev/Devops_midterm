@@ -6,3 +6,5 @@
 
 Автор: Tynchybek_uulu_Azim
 Course: DevOps midterm
+
+Блок 3
