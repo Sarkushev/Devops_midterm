@@ -15,3 +15,4 @@ Course: DevOps midterm
 docker build -t infra-web:1.0 docker/
 docker run -d --name infra-web -p 8080:80 infra-web:1.0
 ```
+Extra note.
